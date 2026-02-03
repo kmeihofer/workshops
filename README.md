@@ -7,7 +7,7 @@ The purpose of an "Inception" is to bring teams together to define the way forwa
 
 Successful Inceptions provide a clear understanding of the work and value being sought with teams often able to begin "hands on keyboard" work immediately upon completion of the event.
 
-**Health checks**: (in-progress)
+**Platform Health checks**: (in-progress)
 
 ## To use: 
 Upload the desired workshop json into Excalidraw at www.excalidraw.com. Modify as needed for your particular workshop needs.
